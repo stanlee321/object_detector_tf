@@ -33,6 +33,12 @@ Output from detection is like
                                         'ymin': 162},
                            "probability": 0.7414186000823975}],
     "success": true}
+    ...
+    ...
+    .
+    .
+    .
+    
 ```
 
 
